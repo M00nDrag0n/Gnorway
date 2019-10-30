@@ -306,6 +306,401 @@ button {
   left: -900px;
 }
 
+#invi1:hover {
+  transform: rotate(150deg);
+  position: absolute;
+  top: 150px;
+}
+#invi2:hover {
+  transform: rotate(145deg);
+  position: absolute;
+  top: 300px;
+}
+#invi13:hover {
+  transform: rotate(140deg);
+  position: absolute;
+  top: 500px;
+}
+#invi4:hover {
+  transform: rotate(135deg);
+  position: absolute;
+  top: 700px;
+}
+#invi5:hover {
+  transform: rotate(130deg);
+  position: absolute;
+  top: 900px;
+}
+#invi6:hover {
+  transform: rotate(125deg);
+  position: absolute;
+  top: 1100px;
+}
+#invi7:hover {
+  transform: rotate(120deg);
+  position: absolute;
+  top: 1300px;
+}
+#invi8:hover {
+  transform: rotate(115deg);
+  position: absolute;
+  top: 1500px;
+}
+#invi9:hover {
+  transform: rotate(110deg);
+  position: absolute;
+  top: 1800px;
+}
+#invi10:hover {
+  transform: rotate(105deg);
+  position: absolute;
+  top: 2100px;
+}
+
+#invi11:hover {
+  transform: rotate(100deg);
+  position: absolute;
+  top: 400px;
+  left: -300px;
+}
+
+#invi12:hover {
+  transform: rotate(95deg);
+  position: absolute;
+  top: 0px;
+  left: -300px;
+}
+
+#invi13:hover {
+  transform: rotate(90deg);
+  position: absolute;
+  top: 200px;
+  left: -300px;
+}
+
+#invi14:hover {
+  transform: rotate(85deg);
+  position: absolute;
+  top: 400px;
+  left: -300px;
+}
+
+#invi15:hover {
+  transform: rotate(80deg);
+  position: absolute;
+  top: 600px;
+  left: -300px;
+}
+
+#invi16:hover {
+  transform: rotate(75deg);
+  position: absolute;
+  top: 800px;
+  left: -300px;
+}
+
+#invi17:hover {
+  transform: rotate(70deg);
+  position: absolute;
+  top: 1000px;
+  left: -300px;
+}
+
+#invi18:hover {
+  transform: rotate(65deg);
+  position: absolute;
+  top: 1200px;
+  left: -300px;
+}
+
+#invi19:hover {
+  transform: rotate(60deg);
+  position: absolute;
+  top: 1400px;
+  left: -300px;
+}
+
+#invi20:hover {
+  transform: rotate(55deg);
+  position: absolute;
+  top: 1600px;
+  left: -300px;
+}
+
+#invi21:hover {
+  transform: rotate(50deg);
+  position: absolute;
+  top: 2000px;
+  left: -300px;
+}
+
+#invi22:hover {
+  transform: rotate(45deg);
+  position: absolute;
+  top: 2200px;
+  left: -300px;
+}
+
+#invi23:hover {
+  transform: rotate(140deg);
+  position: absolute;
+  top: 200px;
+  left: -600px;
+}
+
+#invi24:hover {
+  transform: rotate(135deg);
+  position: absolute;
+  top: 400px;
+  left: -600px;
+}
+
+#invi25:hover {
+  transform: rotate(230deg);
+  position: absolute;
+  top: 600px;
+  left: -600px;
+}
+
+#invi26:hover {
+  transform: rotate(225deg);
+  position: absolute;
+  top: 800px;
+  left: -600px;
+}
+
+#invi27:hover {
+  transform: rotate(20deg);
+  position: absolute;
+  top: 0px;
+  left: -900px;
+}
+
+#invi28:hover {
+  transform: rotate(75deg);
+  position: absolute;
+  top: 300px;
+  left: -900px;
+}
+
+#invi29:hover {
+  transform: rotate(100deg);
+  position: absolute;
+  top: 500px;
+  left: -900px;
+}
+
+#invi30:hover{
+  transform: rotate(105deg);
+  position: absolute;
+  top: 600px;
+  left: -900px;
+}
+
+#invi31:active {
+  transform: rotate(91deg);
+  position: absolute;
+  top: 800px;
+  left: -900px;
+}
+
+#invi1:active {
+  transform: rotate(150deg);
+  position: absolute;
+  top: 150px;
+}
+#invi2:active{
+  transform: rotate(145deg);
+  position: absolute;
+  top: 300px;
+}
+#invi13:active {
+  transform: rotate(140deg);
+  position: absolute;
+  top: 500px;
+}
+#invi4:active {
+  transform: rotate(135deg);
+  position: absolute;
+  top: 700px;
+}
+#invi5:active {
+  transform: rotate(130deg);
+  position: absolute;
+  top: 900px;
+}
+#invi6:active {
+  transform: rotate(125deg);
+  position: absolute;
+  top: 1100px;
+}
+#invi7:active {
+  transform: rotate(120deg);
+  position: absolute;
+  top: 1300px;
+}
+#invi8:active {
+  transform: rotate(115deg);
+  position: absolute;
+  top: 1500px;
+}
+#invi9:active {
+  transform: rotate(110deg);
+  position: absolute;
+  top: 1800px;
+}
+#invi10:active {
+  transform: rotate(105deg);
+  position: absolute;
+  top: 2100px;
+}
+
+#invi11:active {
+  transform: rotate(100deg);
+  position: absolute;
+  top: 400px;
+  left: -300px;
+}
+
+#invi12:active {
+  transform: rotate(95deg);
+  position: absolute;
+  top: 0px;
+  left: -300px;
+}
+
+#invi13:active {
+  transform: rotate(90deg);
+  position: absolute;
+  top: 200px;
+  left: -300px;
+}
+
+#invi14:active {
+  transform: rotate(85deg);
+  position: absolute;
+  top: 400px;
+  left: -300px;
+}
+
+#invi15:active {
+  transform: rotate(80deg);
+  position: absolute;
+  top: 600px;
+  left: -300px;
+}
+
+#invi16:active {
+  transform: rotate(75deg);
+  position: absolute;
+  top: 800px;
+  left: -300px;
+}
+
+#invi17:active {
+  transform: rotate(70deg);
+  position: absolute;
+  top: 1000px;
+  left: -300px;
+}
+
+#invi18:active {
+  transform: rotate(65deg);
+  position: absolute;
+  top: 1200px;
+  left: -300px;
+}
+
+#invi19:active {
+  transform: rotate(60deg);
+  position: absolute;
+  top: 1400px;
+  left: -300px;
+}
+
+#invi20:active {
+  transform: rotate(55deg);
+  position: absolute;
+  top: 1600px;
+  left: -300px;
+}
+
+#invi21:active {
+  transform: rotate(50deg);
+  position: absolute;
+  top: 2000px;
+  left: -300px;
+}
+
+#invi22:active {
+  transform: rotate(45deg);
+  position: absolute;
+  top: 2200px;
+  left: -300px;
+}
+
+#invi23:active {
+  transform: rotate(40deg);
+  position: absolute;
+  top: 200px;
+  left: -600px;
+}
+
+#invi24:active {
+  transform: rotate(35deg);
+  position: absolute;
+  top: 400px;
+  left: -600px;
+}
+
+#invi25:active {
+  transform: rotate(30deg);
+  position: absolute;
+  top: 600px;
+  left: -600px;
+}
+
+#invi26:active {
+  transform: rotate(25deg);
+  position: absolute;
+  top: 800px;
+  left: -600px;
+}
+
+#invi27:active {
+  transform: rotate(20deg);
+  position: absolute;
+  top: 0px;
+  left: -900px;
+}
+
+#invi28:active {
+  transform: rotate(15deg);
+  position: absolute;
+  top: 300px;
+  left: -900px;
+}
+
+#invi29:active {
+  transform: rotate(10deg);
+  position: absolute;
+  top: 500px;
+  left: -900px;
+}
+
+#invi30:active{
+  transform: rotate(95deg);
+  position: absolute;
+  top: 600px;
+  left: -900px;
+}
+
+#invi31:active {
+  transform: rotate(191deg);
+  position: absolute;
+  top: 800px;
+  left: -900px;
+}
 .up:hover {
   transform: rotate(180deg);
 }
