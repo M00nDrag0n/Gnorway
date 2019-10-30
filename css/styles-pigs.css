@@ -1,0 +1,354 @@
+body {
+  background-color: black;
+  color: red;
+  text-align: center;
+}
+
+h3 {
+  border-color: #040052;
+  border-style: solid;
+  border-width: 15px;
+  color: white;
+  background-color: #C8102E;
+  padding: 15px;
+}
+
+input {
+  height: 50px;
+  border-color: red;
+  color: #040052;
+  font-size: 20px;
+  background-image: linear-gradient(to right, red, white, darkblue, white, red);
+}
+
+button {
+  height: 50px;
+  width: 300px;
+  border-color: #040052;
+  border-style: solid;
+  border-width: 10px;
+  color: white;
+  background-image: linear-gradient(to right, red, white, darkblue, white, red);
+
+}
+
+#gn-2 {
+  position: absolute;
+  top: 100px;
+}
+
+#gn-3 {
+  position: absolute;
+  top: 300px;
+}
+
+#gn-4 {
+  position: absolute;
+  top: 500px;
+}
+
+#gn-5 {
+  position: absolute;
+  top: 700px;
+}
+
+#gn-6{
+  position: absolute;
+  top: 900px;
+}
+
+#gn-7 {
+  position: absolute;
+  top: 1100px;
+}
+
+#gn-8 {
+  position: absolute;
+  top: 1300px;
+}
+#gn-9 {
+  position: absolute;
+  top: 1500px;
+}
+
+#gn-10 {
+  position: absolute;
+  top: 1700px;
+}
+
+
+#up1 {
+  position: absolute;
+  top: 100px;
+  right: 1400px;
+}
+#up2 {
+  position: absolute;
+  top: 300px;
+  right: 1400px;
+}
+#up3 {
+  position: absolute;
+  top: 500px;
+  right: 1400px;
+}
+#up4 {
+  position: absolute;
+  top: 700px;
+  right: 1400px;
+}
+#up5 {
+  position: absolute;
+  top: 900px;
+  right: 1400px;
+}
+#up6 {
+  position: absolute;
+  top: 1100px;
+  right: 1400px;
+}
+#up7 {
+  position: absolute;
+  top: 1300px;
+  right: 1400px;
+}
+#up8 {
+  position: absolute;
+  top: 1500px;
+  right: 1400px;
+}
+#up9 {
+  position: absolute;
+  top: 1700px;
+  right: 1400px;
+}
+#up10 {
+  position: absolute;
+  top: 1900px;
+  right: 1400px;
+}
+#up11 {
+  position: absolute;
+  top: 2100px;
+  right: 1400px;
+}
+
+#up12 {
+  position: absolute;
+  top: 0px;
+  right: 1400px;
+}
+
+#invi1 {
+  position: absolute;
+  top: 100px;
+}
+#invi2 {
+  position: absolute;
+  top: 300px;
+}
+#invi13 {
+  position: absolute;
+  top: 500px;
+}
+#invi4 {
+  position: absolute;
+  top: 700px;
+}
+#invi5 {
+  position: absolute;
+  top: 900px;
+}
+#invi6 {
+  position: absolute;
+  top: 1100px;
+}
+#invi7 {
+  position: absolute;
+  top: 1300px;
+}
+#invi8 {
+  position: absolute;
+  top: 1500px;
+}
+#invi9 {
+  position: absolute;
+  top: 1800px;
+}
+#invi10 {
+  position: absolute;
+  top: 2100px;
+}
+
+#invi11 {
+  position: absolute;
+  top: 400px;
+  left: -300px;
+}
+
+#invi12 {
+  position: absolute;
+  top: 0px;
+  left: -300px;
+}
+
+#invi13 {
+  position: absolute;
+  top: 200px;
+  left: -300px;
+}
+
+#invi14 {
+  position: absolute;
+  top: 400px;
+  left: -300px;
+}
+
+#invi15 {
+  position: absolute;
+  top: 600px;
+  left: -300px;
+}
+
+#invi16 {
+  position: absolute;
+  top: 800px;
+  left: -300px;
+}
+
+#invi17 {
+  position: absolute;
+  top: 1000px;
+  left: -300px;
+}
+
+#invi18 {
+  position: absolute;
+  top: 1200px;
+  left: -300px;
+}
+
+#invi19 {
+  position: absolute;
+  top: 1400px;
+  left: -300px;
+}
+
+#invi20 {
+  position: absolute;
+  top: 1600px;
+  left: -300px;
+}
+
+#invi21 {
+  position: absolute;
+  top: 2000px;
+  left: -300px;
+}
+
+#invi22 {
+  position: absolute;
+  top: 2200px;
+  left: -300px;
+}
+
+#invi23 {
+  position: absolute;
+  top: 200px;
+  left: -600px;
+}
+
+#invi24 {
+  position: absolute;
+  top: 400px;
+  left: -600px;
+}
+
+#invi25 {
+  position: absolute;
+  top: 600px;
+  left: -600px;
+}
+
+#invi26 {
+  position: absolute;
+  top: 800px;
+  left: -600px;
+}
+
+#invi27 {
+  position: absolute;
+  top: 0px;
+  left: -900px;
+}
+
+#invi28 {
+  position: absolute;
+  top: 300px;
+  left: -900px;
+}
+
+#invi29 {
+  position: absolute;
+  top: 500px;
+  left: -900px;
+}
+
+#invi30{
+  position: absolute;
+  top: 600px;
+  left: -900px;
+}
+
+#invi31 {
+  position: absolute;
+  top: 800px;
+  left: -900px;
+}
+
+.up:hover {
+  transform: rotate(180deg);
+}
+
+.up:active img {
+  transform:rotate(50deg);
+  position: absolute;
+  top: 0px;
+  left: 400px;
+
+}
+
+.gnomes:hover {
+  transform: rotate(90deg);
+}
+
+.gnomes:active img{
+  transform: rotate(275deg);
+  position: absolute;
+  top: 500px;
+  left: 500px;
+  height: 250px;
+  width: 2000px;
+}
+
+.invisiGnomes img {
+  opacity: 10%;
+  height:300px;
+  width: 300px;
+  position: absolute;
+  top: 0px;
+  left: 1200px;
+}
+
+.invisiGnomes:hover img {
+  opacity: 100%;
+  height:800px;
+  width: 300px;
+}
+
+.invisiGnomes:active img {
+  opacity: 150%;
+  height:800px;
+  width: 1200px;
+  transform:rotate(180deg);
+}
