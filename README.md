@@ -43,3 +43,6 @@ Uppercase letters
 The program recognizes qu at the beginning of word in a multiple-word sentence as a consonant.
     Input:
     Output: --> -->
+
+
+Gnorway: https://m00ndrag0n.github.io/Gnorway/index-pigs.html
