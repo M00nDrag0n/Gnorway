@@ -427,7 +427,8 @@ button {
 
 #invi24:hover {
   transform: rotate(135deg);
-  opacity: 100%;
+  opacity: 70%;
+
 }
 
 #invi25:hover {
